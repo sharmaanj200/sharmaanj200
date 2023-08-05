@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Computer Vision, Natural Language Processing, Flutter, Backend Web Development.<br>👯 I’m looking to collaborate on deep Learning projects and social network analysis.<br>🤝 I’m looking for help with open source and hackathons team formations(Front end developers)<br>🌱 I’m currently learning Computational Social Sciences<br>💬 Talk to me about tech news and research ongoing in machine learning and allied fields<br>⚡ Fun fact I love binge-watching animes.
+🔭 I’m currently working on Machine Learning, Computer Vision, and Backend Web Development.<br>👯 I’m looking to collaborate on deep Learning projects and social network analysis.<br>🤝 I’m looking for help with open source and hackathons team formations(Front end developers)<br>🌱 I’m currently learning Computational Social Sciences<br>💬 Talk to me about tech news and research ongoing in machine learning and allied fields<br>⚡ Fun fact I love binge-watching animes.
 
 
 ## 🌐 Socials:
