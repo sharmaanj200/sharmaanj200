@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - Hi, I am Anjali
-- Looking to contribute to Databases written in C++
+- Presently interested in contributing to Databases written in C++
 - Enthusiastic about learning best practices and performance optimization in C++
 - Interested in working on Distributed Systems, Databases and low level performance optimizations.
 - Reach me on: sharmaanj200@gmail.com
